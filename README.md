@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=oliverwang15&show_icons=true&theme=dark&count_private=true" /> </div>
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=oliverwang15&hide_title=true&hide_border=true&show_icons=true&theme=dark&count_private=true" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverwang15&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div>
 <!--
 **oliverwang15/oliverwang15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
